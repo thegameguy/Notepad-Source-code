@@ -1,0 +1,4 @@
+Notepad Pronto is a quick and smart app to save and search through notes. You can save a note and mark it with color of your choice and later on you can update the note may be with a different color. Marking notes with different colors gives user the ability to prioritize and group the notes. Each note has a time stamp that shows the note saved or updated time. 
+
+
+Anything can be searched through the notes. e.g if a businessman stores his customer information that includes customer name, area, quantity and contact. he can search by name or any other attribute. The note(s) containing that information will pop-up after clicking search button and all other notes will hide. All notes can be shown by clicking the close button at the top of screen.   
